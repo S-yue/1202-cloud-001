@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>1202-cloud-config02</artifactId>
-    <dependencies>
+<dependencies>
     <dependency>
         <groupId>com.aaa</groupId>
         <artifactId>1202-cloud-common</artifactId>
@@ -20,5 +20,6 @@
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-config-server</artifactId>
     </dependency>
-    </dependencies>
+</dependencies>
+
 </project>
